@@ -1,1 +1,1 @@
-# course-Effective_Programming_in_C_and_C++
+# course Effective_Programming_in_C_and_C++ assignment
